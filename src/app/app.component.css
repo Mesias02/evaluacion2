@@ -1,0 +1,89 @@
+.circulo{
+    width: 138px; 
+    height: 138px;
+
+    border-radius: 50%;
+    border: 6PX solid #ffffff; 
+  }
+
+  header {
+    text-align: center;
+    font-size: smaller;
+    color: rgb(247, 247, 247);
+    background-color: #4b4a4b;
+  }
+.card {
+            font-size: 13px;
+            border: 3px solid #ddd;
+            padding: 23px;
+            margin: 10px;
+            background-color: #f9f9f9;
+        }
+        .card h2 {
+            font-size: 23px;
+            margin-bottom: 10px;
+            font-weight: bolder;
+            
+        }
+        .card2 {
+            border: 1px solid #ddd;
+            padding: 20px;
+            margin: 10px;
+      
+            background-color: #f9f9f9;
+        }
+            .card2 h2 {
+            font-size: 18px;
+            margin-bottom: 10px;
+            font-weight: bolder;
+            }
+            .card2 h3 {
+            font-size: 13px;
+            margin-bottom: 10px;
+            }
+        
+        .card3 {
+            border: 1px solid #ddd;
+            padding: 20px;
+            margin: 10px;
+            background-color: #f9f9f9;
+            
+        }
+        .card3 h2 {
+            font-size: 18px;
+            margin-bottom: 10px;
+            font-weight: bolder;
+        }
+        .card3 h3{
+            font-size: 13px;
+            margin-bottom: 10px;
+            font-weight: bolder;
+            
+        }
+        .card3 h5{
+          font-size: 11px;
+        }
+          
+        
+        .color-box {
+  width: 1180PX;
+  height: 76px;
+  background-color: rgb(171, 167, 167); /* Cambia el color aquí */
+  margin-bottom: 10px;
+  transition: background-color 0.7s;
+}
+.color-box2 {
+  
+  width: 1180PX;
+  height:auto;
+  background-color: rgb(188, 187, 186); 
+  margin-bottom: 10px;
+  transition: background-color 0.7s; /* Agrega una transición suave */
+        }
+.color-box2:hover {
+           background-color: #ed1b1b; /* Cambia el color al pasar el ratón */
+            box-shadow: 0 0 35px rgba(0, 0, 0, 0.5);
+            color: rgb(255, 255, 255);
+            cursor: pointer;
+}
+  
